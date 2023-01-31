@@ -6,7 +6,7 @@ The Horrisen Website is comprised of HTML and CSS, with links to section of the 
 
 ## Installation
 
-No installation required.
+No installation required, hosted at https://fuzzygiraffee.github.io/Refacotring-challenge-week-1/
 
 ## Usage
 
